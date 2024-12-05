@@ -1,0 +1,33 @@
+names:
+  0: BSB
+  1: BLB
+  2: BLR
+  3: BSR
+  4: BSW
+  5: BSL
+  6: BSY
+  7: BST
+  8: BSP
+  10: RMB
+  11: RSB
+  14: RSA
+  15: RSY
+  16: RSR
+  17: R4B
+  25: GLG
+  27: GLL
+  28: GLP
+  31: FSR
+  32: FLR
+  33: FSB
+  34: FLB
+  39: JLL
+  43: HLR
+  44: HSR
+  51: PLS
+  52: PSS
+  69: GRLL
+  70: BRLR
+  71: BRSR
+train: /Users/laman/Desktop/data/images/train
+val: /Users/laman/Desktop/data/images/val
